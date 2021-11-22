@@ -5,6 +5,7 @@ The purpose of this project is to create three charts: horizontal bar chart, bub
 - samples.json : sample data
 - charts.js
 - index.html
+- style.css
 - image1.jpg : background image from (https://ideas.ted.com/gallery-the-most-beautiful-bacteria-youll-ever-see/)
 
 ## Results:  
