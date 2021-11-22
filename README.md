@@ -9,6 +9,8 @@ The purpose of this project is to create three charts: horizontal bar chart, bub
 - image1.jpg : background image from (https://ideas.ted.com/gallery-the-most-beautiful-bacteria-youll-ever-see/)
 
 ## Results:  
+link to [Result Dashboard](https://kaylaisnomyname.github.io/plotlydiploy/)  
+###### image 1: Result Screenshot
 ![resultscreenshot](https://github.com/kaylaisnomyname/plotlydiploy/blob/main/resultScreenshot.jpg?raw=true)  
 - Deliverable 1: Horizontal Bar Chart
 - Deliverable 2: Bubble Chart, colorscale: "Portland"
