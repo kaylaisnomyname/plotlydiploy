@@ -1,12 +1,6 @@
 # Challenge 12: Visualization using Plotly
 ## Purpose
 The purpose of this project is to create three charts: horizontal bar chart, bubble chart and gauge chart, based on the source data samples.  
-## files:
-- samples.json : sample data
-- charts.js
-- index.html
-- style.css
-- image1.jpg : background image from (https://ideas.ted.com/gallery-the-most-beautiful-bacteria-youll-ever-see/)
 
 ## Results:  
 link to [Result Dashboard](https://kaylaisnomyname.github.io/plotlydiploy/)  
@@ -26,3 +20,5 @@ link to [Result Dashboard](https://kaylaisnomyname.github.io/plotlydiploy/)
 - 3D effect on jumbotron text
 - add describtive paragraphs to the charts
 
+## Reference:
+- image1.jpg : background image from (https://ideas.ted.com/gallery-the-most-beautiful-bacteria-youll-ever-see/)
