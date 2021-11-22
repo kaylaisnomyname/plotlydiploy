@@ -99,7 +99,8 @@ function buildCharts(sample) {
       y: yticks,
       type: "bar",
       orientation: "h",
-      text: otulabels.slice(0,10).reverse()
+      text: otulabels.slice(0,10).reverse(),
+      marker: {color: samplevalues.slice(0,10).reverse(), colorscale: "Portland"}
       }];
       // 9. Create the layout for the bar chart. 
       var barLayout = {
@@ -138,7 +139,7 @@ function buildCharts(sample) {
       var gaugeData = [{
         domain: {x:[0,1], y:[0,1]},
         value: sampleWfreq,
-        title: {text: "Scrubs per Week"},
+        title: {text: "<span style='font-weight:bold'>Belly Button Washing Frequency</span><br><span>Scrubs per Week</span>"},
         type: "indicator",
         mode: "gauge+number",
         gauge: { 

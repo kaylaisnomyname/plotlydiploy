@@ -1,0 +1,40 @@
+
+.jumbotron {
+    background-image: url("image1.jpg");
+    opacity: 0.75;
+    background-size: 100% 100%;
+    text-align: center;
+    font-family: sans-serif, Verdana;
+    color: rgb(1, 8, 36);
+
+}
+
+/*  tried to set background img opacity 0.5 without setting the text transparent, failed.
+.jumbotron::before {
+    position: relative;
+    text-align: center;
+    font-family: sans-serif, Verdana;
+    color: rgb(185, 201, 40);
+
+}
+
+.jumbotron {
+    content: "";
+    background-image: url("image1.jpg");
+    opacity: 0.5;
+    border: thick double #32a1ce;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    bottom:0;
+    left:0;
+    right:0;
+} */
+
+
+
+/* original color : #E9E4D4
+background-color: transparent;
+mix-blend-mode: darken;
+border: thick double #32a1ce; 
+*/
